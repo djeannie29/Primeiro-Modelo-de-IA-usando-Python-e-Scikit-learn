@@ -1,4 +1,4 @@
-# Primeiro-Modelo-de-IA-usando-Python-e-Scikit-learn
+# Modelo de IA usando Python e Scikit learn
 
 O que eu aprendi
 
