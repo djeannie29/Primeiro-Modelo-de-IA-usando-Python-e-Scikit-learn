@@ -1,5 +1,7 @@
 # Primeiro-Modelo-de-IA-usando-Python-e-Scikit-learn
+
 O que eu aprendi
+
 Implementação prática de Machine Learning: 
 Classificação de RandomForestClassifier
 Técnicas de visualização de dados:
